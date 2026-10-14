@@ -356,14 +356,14 @@ const renderExperienceBanner = (mode = "light") => {
     ${textEl(company, 18, 64, 21, ink, fonts.extraBold, -0.6)}
     ${textEl(role, 18, 84, 13, mutedInk, fonts.bold)}
     ${paragraphEl(desc, 18, 109, w - 36, 13.5, 20, subInk, fonts.medium)}
-    ${textEl(stack, 18, h - 16, 11.5, isDark ? "#8b9dff" : "#304bff", fonts.extraBold, 0.2)}
+    ${textEl(stack, 18, h - 18, 11.5, isDark ? "#8b9dff" : "#304bff", fonts.extraBold, 0.2)}
   </g>`;
 
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="328" viewBox="0 0 1200 328" role="img" aria-labelledby="title desc">
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="348" viewBox="0 0 1200 348" role="img" aria-labelledby="title desc">
   <title id="title">6+ years in software engineering — ThreatSabre, Coalesce, MATTR, Spidertracks</title>
   <desc id="desc">Career highlights across ThreatSabre, Coalesce, MATTR, and Spidertracks in TypeScript, React, Node.js, PostgreSQL, AWS, and event-driven systems.</desc>
-  <rect x="7" y="7" width="1184" height="312" fill="${shadow}"/>
-  <rect x="1.5" y="1.5" width="1184" height="312" fill="${bg}" stroke="${border}" stroke-width="2.5"/>
+  <rect x="7" y="7" width="1184" height="332" fill="${shadow}"/>
+  <rect x="1.5" y="1.5" width="1184" height="332" fill="${bg}" stroke="${border}" stroke-width="2.5"/>
 
   <rect x="38" y="30" width="9" height="9" fill="${accent}"/>
   ${textEl("EXPERIENCE & ARCHITECTURE", 56, 39, 12, mutedInk, fonts.extraBold, 0.9)}
@@ -374,43 +374,43 @@ const renderExperienceBanner = (mode = "light") => {
     38,
     98,
     266,
-    190,
+    210,
     "#dfff00",
     "NETWORK SECURITY",
     "ThreatSabre",
     "Architecture & Product (Contract)",
-    "Hands-on architecture, technical review, and product development with the founders.",
+    "Hands-on architecture, technical review & product development with the founders.",
     "TypeScript · React · Node.js"
   )}
   ${roleCard(
     319,
     98,
     266,
-    190,
+    210,
     "#ff6d3a",
     "DATA TRANSFORMATION",
     "Coalesce",
     "Senior Software Engineer",
-    "No-downtime Firestore→PostgreSQL migration, React performance & 3–20× faster ANTLR SQL parser.",
+    "Zero-downtime Firestore→Postgres migration, React performance & 3–20× faster SQL parser.",
     "TypeScript · React · PostgreSQL · Node.js"
   )}
   ${roleCard(
     600,
     98,
     266,
-    190,
+    210,
     "#b999ff",
     "DIGITAL IDENTITY",
     "MATTR",
     "Senior Software Engineer",
-    "Eventing platform, ts-morph & Protobuf codegen, Kafka cost optimisation & global Auth0 plane.",
+    "Eventing platform, ts-morph & Protobuf codegen, Kafka optimisation & global Auth0 plane.",
     "TypeScript · Kafka · AWS · Postgres · Auth0"
   )}
   ${roleCard(
     881,
     98,
     273,
-    190,
+    210,
     "#76e5c2",
     "AIRCRAFT TRACKING",
     "Spidertracks",
