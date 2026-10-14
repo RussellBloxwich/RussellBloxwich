@@ -234,30 +234,14 @@ const renderHero = (mode = "light") => {
   ${textEl("6+ YEARS", 61, 542, 14, "#151515", fonts.extraBold, 0.4)}
   ${textEl("Frontend, backend & the systems that connect them:", 166, 542, 14.5, subInk, fonts.bold, -0.1)}
 
-  <g transform="translate(558 520)">
-    <rect x="2.5" y="2.5" width="136" height="34" fill="${cardShadow}"/>
-    <rect x="0" y="0" width="136" height="34" fill="#ffffff" stroke="#151515" stroke-width="2"/>
-    <circle cx="18" cy="17" r="5" fill="#304bff"/>
-    ${textEl("ThreatSabre", 31, 22, 13.5, "#151515", fonts.extraBold, -0.2)}
-  </g>
-  <g transform="translate(708 520)">
-    <rect x="2.5" y="2.5" width="116" height="34" fill="${cardShadow}"/>
-    <rect x="0" y="0" width="116" height="34" fill="#ffffff" stroke="#151515" stroke-width="2"/>
-    <circle cx="18" cy="17" r="5" fill="#ff6d3a"/>
-    ${textEl("Coalesce", 31, 22, 13.5, "#151515", fonts.extraBold, -0.2)}
-  </g>
-  <g transform="translate(838 520)">
-    <rect x="2.5" y="2.5" width="102" height="34" fill="${cardShadow}"/>
-    <rect x="0" y="0" width="102" height="34" fill="#ffffff" stroke="#151515" stroke-width="2"/>
-    <circle cx="18" cy="17" r="5" fill="#b999ff"/>
-    ${textEl("MATTR", 31, 22, 13.5, "#151515", fonts.extraBold, -0.2)}
-  </g>
-  <g transform="translate(954 520)">
-    <rect x="2.5" y="2.5" width="136" height="34" fill="${cardShadow}"/>
-    <rect x="0" y="0" width="136" height="34" fill="#ffffff" stroke="#151515" stroke-width="2"/>
-    <circle cx="18" cy="17" r="5" fill="#151515"/>
-    ${textEl("Spidertracks", 31, 22, 13.5, "#151515", fonts.extraBold, -0.2)}
-  </g>`;
+  <circle cx="566" cy="537" r="4.5" fill="#304bff"/>
+  ${textEl("ThreatSabre", 580, 542, 14.5, ink, fonts.extraBold, -0.2)}
+  <circle cx="700" cy="537" r="4.5" fill="#ff6d3a"/>
+  ${textEl("Coalesce", 714, 542, 14.5, ink, fonts.extraBold, -0.2)}
+  <circle cx="810" cy="537" r="4.5" fill="#b999ff"/>
+  ${textEl("MATTR", 824, 542, 14.5, ink, fonts.extraBold, -0.2)}
+  <circle cx="906" cy="537" r="4.5" fill="#76e5c2"/>
+  ${textEl("Spidertracks", 920, 542, 14.5, ink, fonts.extraBold, -0.2)}`;
 
   return `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="568" viewBox="0 0 1200 568" role="img" aria-labelledby="title desc">
   <title id="title">Russell Bloxwich — Product Engineering. Side Projects. A little chaos.</title>
@@ -375,93 +359,65 @@ const renderExperienceBanner = (mode = "light") => {
     ${textEl(stack, 18, h - 16, 11.5, isDark ? "#8b9dff" : "#304bff", fonts.extraBold, 0.2)}
   </g>`;
 
-  const stackPills = [
-    ["TypeScript", "#dfff00"],
-    ["React", "#ffffff"],
-    ["Node.js", "#ffffff"],
-    ["Go", "#76e5c2"],
-    ["Swift / macOS / iOS", "#ff7ad9"],
-    ["PostgreSQL", "#ffffff"],
-    ["Cloudflare Workers", "#ff6d3a"],
-    ["Kafka & Eventing", "#b999ff"],
-    ["Local-First / CRDTs", "#dfff00"],
-    ["On-Device AI", "#ffffff"],
-  ];
-
-  let pillX = 38;
-  const renderedPills = stackPills
-    .map(([label, color]) => {
-      const pw = Math.round(measureText(label, 12.5, fonts.extraBold, -0.1) + 24);
-      const svg = `<g transform="translate(${pillX} 312)">
-      <rect x="2.5" y="2.5" width="${pw}" height="32" fill="${shadow}"/>
-      <rect x="0" y="0" width="${pw}" height="32" fill="${color}" stroke="#151515" stroke-width="1.8"/>
-      ${textEl(label, 12, 20.5, 12.5, "#151515", fonts.extraBold, -0.1)}
-    </g>`;
-      pillX += pw + 10;
-      return svg;
-    })
-    .join("\n  ");
-
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="368" viewBox="0 0 1200 368" role="img" aria-labelledby="title desc">
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="328" viewBox="0 0 1200 328" role="img" aria-labelledby="title desc">
   <title id="title">6+ years in software engineering — ThreatSabre, Coalesce, MATTR, Spidertracks</title>
-  <desc id="desc">Career highlights and core stack across TypeScript, React, Node.js, Go, Swift, PostgreSQL, and Cloudflare.</desc>
-  <rect x="7" y="7" width="1184" height="352" fill="${shadow}"/>
-  <rect x="1.5" y="1.5" width="1184" height="352" fill="${bg}" stroke="${border}" stroke-width="2.5"/>
+  <desc id="desc">Career highlights across ThreatSabre, Coalesce, MATTR, and Spidertracks in TypeScript, React, Node.js, PostgreSQL, AWS, and event-driven systems.</desc>
+  <rect x="7" y="7" width="1184" height="312" fill="${shadow}"/>
+  <rect x="1.5" y="1.5" width="1184" height="312" fill="${bg}" stroke="${border}" stroke-width="2.5"/>
 
   <rect x="38" y="30" width="9" height="9" fill="${accent}"/>
   ${textEl("EXPERIENCE & ARCHITECTURE", 56, 39, 12, mutedInk, fonts.extraBold, 0.9)}
   ${textEl("6+ years in software engineering.", 38, 76, 34, ink, fonts.extraBold, -1.5)}
+  ${textEl("Frontend engineering, distributed systems, architecture & the decisions that keep a team moving.", 586, 72, 13.5, mutedInk, fonts.semiBold)}
 
   ${roleCard(
     38,
     98,
     266,
-    194,
+    190,
     "#dfff00",
     "NETWORK SECURITY",
     "ThreatSabre",
-    "Senior Software Engineer",
-    "Architecture and product development from the ground up.",
+    "Architecture & Product (Contract)",
+    "Hands-on architecture, technical review, and product development with the founders.",
     "TypeScript · React · Node.js"
   )}
   ${roleCard(
     319,
     98,
     266,
-    194,
+    190,
     "#ff6d3a",
     "DATA TRANSFORMATION",
     "Coalesce",
     "Senior Software Engineer",
-    "Zero-downtime Firestore→Postgres migration & 3–20× faster SQL parser.",
-    "TypeScript · React · PostgreSQL · Go"
+    "No-downtime Firestore→PostgreSQL migration, React performance & 3–20× faster ANTLR SQL parser.",
+    "TypeScript · React · PostgreSQL · Node.js"
   )}
   ${roleCard(
     600,
     98,
     266,
-    194,
+    190,
     "#b999ff",
-    "DIGITAL TRUST & ID",
+    "DIGITAL IDENTITY",
     "MATTR",
     "Senior Software Engineer",
-    "Event-driven platform architecture, Protobuf codegen & global auth.",
-    "TypeScript · Node.js · Kafka · Auth0"
+    "Eventing platform, ts-morph & Protobuf codegen, Kafka cost optimisation & global Auth0 plane.",
+    "TypeScript · Kafka · AWS · Postgres · Auth0"
   )}
   ${roleCard(
     881,
     98,
     273,
-    194,
+    190,
     "#76e5c2",
-    "AVIATION & TELEMETRY",
+    "AIRCRAFT TRACKING",
     "Spidertracks",
     "Senior Software Engineer",
-    "Real-time aircraft tracking, frontend modernisation & core APIs.",
-    "React · TypeScript · Node.js · AWS"
+    "Modernising legacy React & Redux to TypeScript and replacing Java/Spring APIs with Node.js.",
+    "TypeScript · React · Redux · Node.js"
   )}
-
-  ${renderedPills}
 </svg>\n`;
 };
 
@@ -535,9 +491,10 @@ for (const mode of ["light", "dark"]) {
 
 const badges = [
   ["badge-enough", "ENOUGH TOOLS", "#3b4fe4", "#ffffff"],
-  ["badge-apps", "APPS & GAMES", "#ff7ad9", "#151515"],
-  ["badge-oss", "OPEN SOURCE & CLI", "#dfff00", "#151515"],
-  ["badge-chaos", "HARDWARE & CHAOS", "#ff6d3a", "#151515"],
+  ["badge-apps", "APPS", "#ff7ad9", "#151515"],
+  ["badge-games", "GAMES", "#76e5c2", "#151515"],
+  ["badge-oss", "TOOLS", "#dfff00", "#151515"],
+  ["badge-chaos", "EXPERIMENTS", "#ff6d3a", "#151515"],
   ["badge-writing", "THINKING OUT LOUD", "#b999ff", "#151515"],
   ["badge-work", "WORK WITH ME", "#76e5c2", "#151515"],
 ];

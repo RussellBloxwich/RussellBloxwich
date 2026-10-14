@@ -9,13 +9,13 @@
 </div>
 
 <p align="center">
-  <a href="https://russ.dev"><strong>russ.dev ↗</strong></a> · <a href="https://enoughtools.com"><strong>EnoughTools ↗</strong></a> · <a href="https://russ.dev/projects">Projects</a> · <a href="https://russ.dev/posts">Writing</a> · <a href="https://russ.dev/experience">Experience</a> · <a href="https://russ.dev/open-to-work"><strong>Work with me →</strong></a> · <a href="https://russ.dev/Russell-Bloxwich-CV.pdf">CV</a> · <a href="https://www.linkedin.com/in/russell-bloxwich-a88491a3/">LinkedIn</a>
+  <a href="https://russ.dev"><strong>russ.dev ↗</strong></a> · <a href="https://russ.dev/projects?category=enough"><strong>EnoughTools ↗</strong></a> · <a href="https://russ.dev/projects">Projects</a> · <a href="https://russ.dev/posts">Writing</a> · <a href="https://russ.dev/experience">Experience</a> · <a href="https://russ.dev/open-to-work"><strong>Work with me →</strong></a> · <a href="https://russ.dev/Russell-Bloxwich-CV.pdf">CV</a> · <a href="https://www.linkedin.com/in/russell-bloxwich-a88491a3/">LinkedIn</a>
 </p>
 
 <br>
 
 <div align="center">
-  <a href="https://enoughtools.com">
+  <a href="https://russ.dev/projects?category=enough">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/enough-dark.png">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/enough-light.png">
@@ -51,12 +51,12 @@
 
 <br>
 
-## <a href="https://russ.dev/projects"><img src="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/badge-apps.png" height="24" align="absmiddle" alt="Apps & Games"></a> &nbsp; <a href="https://russ.dev/projects"><img src="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/badge-oss.png" height="24" align="absmiddle" alt="Open Source & CLI"></a> &nbsp; <a href="https://russ.dev/posts/mixer-mayhem"><img src="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/badge-chaos.png" height="24" align="absmiddle" alt="Hardware & Chaos"></a> &nbsp; <a href="https://russ.dev/projects">Selected Work & Side Projects</a>
+## <a href="https://russ.dev/projects?category=apps"><img src="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/badge-apps.png" height="24" align="absmiddle" alt="Apps"></a> &nbsp; <a href="https://russ.dev/projects?category=games"><img src="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/badge-games.png" height="24" align="absmiddle" alt="Games"></a> &nbsp; <a href="https://russ.dev/projects?category=tools"><img src="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/badge-oss.png" height="24" align="absmiddle" alt="Tools"></a> &nbsp; <a href="https://russ.dev/projects?category=experiments"><img src="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/badge-chaos.png" height="24" align="absmiddle" alt="Experiments"></a> &nbsp; <a href="https://russ.dev/projects">Selected Work & Side Projects</a>
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <strong>Apps &amp; Games</strong><br><br>
+      <strong><a href="https://russ.dev/projects?category=apps">Apps</a> &amp; <a href="https://russ.dev/projects?category=games">Games</a></strong><br><br>
       • <strong><a href="https://russ.dev/projects/webscav">Webscav ↗</a></strong> — Real-world photo &amp; video scavenger hunts with live judging and a big-screen reveal reel.<br><br>
       • <strong><a href="https://russ.dev/projects/ha-play">H&amp;A Play ↗</a></strong> — Eight games, one private club for iPhone (realtime multiplayer &amp; async puzzles).<br><br>
       • <strong><a href="https://russ.dev/projects/gratin">Gratin ↗</a></strong> — Local-first recipe manager &amp; meal planner with CRDT sync and on-device extraction.<br><br>
@@ -64,7 +64,7 @@
       • <strong><a href="https://russ.dev/projects/rent-racket">Rent Racket ↗</a></strong> &amp; <strong><a href="https://russ.dev/projects/perfect-family">Perfect Family ↗</a></strong> — Party games built for game nights.
     </td>
     <td width="33%" valign="top">
-      <strong>Open-Source Tools &amp; CLIs</strong><br><br>
+      <strong><a href="https://russ.dev/projects?category=tools">Tools &amp; CLIs</a></strong><br><br>
       • <strong><a href="https://github.com/RussellBloxwich/greenkeeper">Greenkeeper</a></strong> (<a href="https://russ.dev/posts/greenkeeper">Post ↗</a>) — Local Go daemon &amp; TUI that babysits your PRs, watches CI, and dispatches coding agents.<br><br>
       • <strong><a href="https://github.com/RussellBloxwich/cfui">CFUI</a></strong> (<a href="https://russ.dev/projects/cfui">Story ↗</a>) — Local web dashboard for Cloudflare infrastructure and DNS.<br><br>
       • <strong><a href="https://github.com/RussellBloxwich/envmux">envmux</a></strong> — Isolate environment variables and secrets per project &amp; shell session.<br><br>
@@ -72,8 +72,8 @@
       • <strong><a href="https://russ.dev/projects/clipboard-inspector">Clipboard Inspector ↗</a></strong>, <strong><a href="https://russ.dev/projects/chat-stats">ChatStats ↗</a></strong>, <strong><a href="https://russ.dev/projects/date-calculator">Date Calculator ↗</a></strong> &amp; <strong><a href="https://russ.dev/projects/secret-santa">Secret Santa ↗</a></strong>.
     </td>
     <td width="34%" valign="top">
-      <strong>Hardware &amp; A Little Chaos</strong><br><br>
-      • <strong><a href="https://russ.dev/posts/mixer-mayhem">Mixer Mayhem ↗</a></strong> (<a href="https://github.com/RussellBloxwich/MixerMayhem">Repo</a>) — Turned a kitchen microwave into a custom PCB &amp; peristaltic-pump cocktail dispenser.<br><br>
+      <strong><a href="https://russ.dev/projects?category=experiments">Experiments &amp; Chaos</a></strong><br><br>
+      • <strong><a href="https://russ.dev/projects/mixer-mayhem">Mixer Mayhem ↗</a></strong> (<a href="https://russ.dev/posts/mixer-mayhem">Post</a> · <a href="https://github.com/RussellBloxwich/MixerMayhem">Repo</a>) — Turned a kitchen microwave into a custom PCB &amp; peristaltic-pump cocktail dispenser.<br><br>
       • <strong><a href="https://russ.dev/posts/on-device-models">On-Device LLM Harness ↗</a></strong> — Benchmarking sub-4B language models on iPhone for structured local extraction.<br><br>
       • <strong><a href="https://github.com/RussellBloxwich/InfectLiveMobile">InfectLive</a></strong> — Real-time location-based mobile infection tag game.<br><br>
       • <strong><a href="https://russ.dev/projects">Browse all projects on russ.dev →</a></strong>
@@ -84,6 +84,10 @@
 <br>
 
 ## <a href="https://russ.dev/posts"><img src="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/badge-writing.png" height="24" align="absmiddle" alt="Thinking Out Loud"></a> &nbsp; <a href="https://russ.dev/posts">Thinking Out Loud</a>
+
+<p>
+  <a href="https://russ.dev/posts"><strong>All writing ↗</strong></a> · <a href="https://russ.dev/posts?topic=architecture">Architecture ↗</a> · <a href="https://russ.dev/posts?topic=ai">Building with AI ↗</a> · <a href="https://russ.dev/posts?topic=projects">Projects &amp; play ↗</a> · <a href="https://russ.dev/posts?topic=life">Life &amp; making ↗</a>
+</p>
 
 <table>
   <tr>
