@@ -1,0 +1,13 @@
+{
+  "name": "russellbloxwich-github-profile",
+  "private": true,
+  "type": "module",
+  "description": "GitHub profile README and neobrutalist SVG asset generator for Russell Bloxwich (russ.dev)",
+  "scripts": {
+    "generate": "node scripts/generate-profile-assets.mjs"
+  },
+  "devDependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "opentype.js": "^1.3.4"
+  }
+}
