@@ -9,21 +9,7 @@
 </div>
 
 <p align="center">
-  <a href="https://russ.dev"><strong>Explore russ.dev ↗</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://enoughtools.com"><strong>EnoughTools.com ↗</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://russ.dev/projects">Projects</a>
-  &nbsp; · &nbsp;
-  <a href="https://russ.dev/posts">Writing</a>
-  &nbsp; · &nbsp;
-  <a href="https://russ.dev/experience">Experience</a>
-  &nbsp; · &nbsp;
-  <a href="https://russ.dev/open-to-work"><strong>Work with me →</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://russ.dev/Russell-Bloxwich-CV.pdf">Download CV</a>
-  &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/russell-bloxwich-a88491a3/">LinkedIn</a>
+  <a href="https://russ.dev"><strong>russ.dev ↗</strong></a> · <a href="https://enoughtools.com"><strong>EnoughTools ↗</strong></a> · <a href="https://russ.dev/projects">Projects</a> · <a href="https://russ.dev/posts">Writing</a> · <a href="https://russ.dev/experience">Experience</a> · <a href="https://russ.dev/open-to-work"><strong>Work with me →</strong></a> · <a href="https://russ.dev/Russell-Bloxwich-CV.pdf">CV</a> · <a href="https://www.linkedin.com/in/russell-bloxwich-a88491a3/">LinkedIn</a>
 </p>
 
 <br>
@@ -65,7 +51,7 @@
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/badge-apps.png" height="24" align="absmiddle" alt="Apps & Games"> &nbsp; <img src="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/badge-oss.png" height="24" align="absmiddle" alt="Open Source & CLI"> &nbsp; <img src="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/badge-chaos.png" height="24" align="absmiddle" alt="Hardware & Chaos"> &nbsp; Selected Work & Side Projects
+## <a href="https://russ.dev/projects"><img src="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/badge-apps.png" height="24" align="absmiddle" alt="Apps & Games"></a> &nbsp; <a href="https://russ.dev/projects"><img src="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/badge-oss.png" height="24" align="absmiddle" alt="Open Source & CLI"></a> &nbsp; <a href="https://russ.dev/posts/mixer-mayhem"><img src="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/badge-chaos.png" height="24" align="absmiddle" alt="Hardware & Chaos"></a> &nbsp; <a href="https://russ.dev/projects">Selected Work & Side Projects</a>
 
 <table>
   <tr>
@@ -97,7 +83,7 @@
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/badge-writing.png" height="24" align="absmiddle" alt="Thinking Out Loud"> &nbsp; Thinking Out Loud
+## <a href="https://russ.dev/posts"><img src="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/badge-writing.png" height="24" align="absmiddle" alt="Thinking Out Loud"></a> &nbsp; <a href="https://russ.dev/posts">Thinking Out Loud</a>
 
 <table>
   <tr>
@@ -163,11 +149,7 @@
 </div>
 
 <p align="center">
-  <a href="https://russ.dev/experience"><strong>Full experience &amp; architecture notes ↗</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://russ.dev/open-to-work"><strong>Open to Senior, Staff &amp; Tech Lead roles →</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://russ.dev/Russell-Bloxwich-CV.pdf"><strong>Download CV (PDF) ↗</strong></a>
+  <a href="https://russ.dev/experience"><strong>Experience &amp; architecture notes ↗</strong></a> · <a href="https://russ.dev/open-to-work"><strong>Open to Senior, Staff &amp; Tech Lead roles →</strong></a> · <a href="https://russ.dev/Russell-Bloxwich-CV.pdf"><strong>Download CV (PDF) ↗</strong></a>
 </p>
 
 <br>
@@ -183,11 +165,5 @@
 </div>
 
 <p align="center">
-  <a href="https://russ.dev/open-to-work"><strong>Work with me →</strong></a>
-  &nbsp; · &nbsp;
-  <a href="mailto:contact@reb.nz"><strong>contact@reb.nz</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/russell-bloxwich-a88491a3/"><strong>LinkedIn ↗</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://russ.dev"><strong>russ.dev ↗</strong></a>
+  <a href="https://russ.dev/open-to-work"><strong>Work with me →</strong></a> · <a href="mailto:contact@reb.nz"><strong>contact@reb.nz</strong></a> · <a href="https://www.linkedin.com/in/russell-bloxwich-a88491a3/"><strong>LinkedIn ↗</strong></a> · <a href="https://russ.dev"><strong>russ.dev ↗</strong></a>
 </p>
