@@ -1,15 +1,17 @@
 <div align="center">
   <a href="https://russ.dev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/hero-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/hero-light.svg">
-      <img alt="Russell Bloxwich — Product Engineering. Side Projects. A little chaos." src="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/hero-light.svg" width="1200">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/hero-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/hero-light.png">
+      <img alt="Russell Bloxwich — Product Engineering. Side Projects. A little chaos." src="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/hero-light.png" width="1200">
     </picture>
   </a>
 </div>
 
 <p align="center">
-  <a href="https://russ.dev"><strong>russ.dev ↗</strong></a>
+  <a href="https://russ.dev"><strong>Explore russ.dev ↗</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://enoughtools.com"><strong>EnoughTools.com ↗</strong></a>
   &nbsp; · &nbsp;
   <a href="https://russ.dev/projects">Projects</a>
   &nbsp; · &nbsp;
@@ -22,8 +24,6 @@
   <a href="https://russ.dev/Russell-Bloxwich-CV.pdf">Download CV</a>
   &nbsp; · &nbsp;
   <a href="https://www.linkedin.com/in/russell-bloxwich-a88491a3/">LinkedIn</a>
-  &nbsp; · &nbsp;
-  <a href="mailto:contact@reb.nz">contact@reb.nz</a>
 </p>
 
 <br>
@@ -31,9 +31,9 @@
 <div align="center">
   <a href="https://enoughtools.com">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/enough-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/enough-light.svg">
-      <img alt="Enough. Open-source tools for email, repositories, coding agents, and interfaces." src="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/enough-light.svg" width="1200">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/enough-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/enough-light.png">
+      <img alt="Enough. Open-source tools for email, repositories, coding agents, and interfaces." src="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/enough-light.png" width="1200">
     </picture>
   </a>
 </div>
@@ -65,7 +65,7 @@
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/badge-apps.svg" height="24" align="absmiddle" alt="Apps & Games"> &nbsp; <img src="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/badge-oss.svg" height="24" align="absmiddle" alt="Open Source & CLI"> &nbsp; <img src="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/badge-chaos.svg" height="24" align="absmiddle" alt="Hardware & Chaos"> &nbsp; Selected Work & Side Projects
+## <img src="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/badge-apps.png" height="24" align="absmiddle" alt="Apps & Games"> &nbsp; <img src="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/badge-oss.png" height="24" align="absmiddle" alt="Open Source & CLI"> &nbsp; <img src="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/badge-chaos.png" height="24" align="absmiddle" alt="Hardware & Chaos"> &nbsp; Selected Work & Side Projects
 
 <table>
   <tr>
@@ -97,7 +97,7 @@
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/badge-writing.svg" height="24" align="absmiddle" alt="Thinking Out Loud"> &nbsp; Thinking Out Loud
+## <img src="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/badge-writing.png" height="24" align="absmiddle" alt="Thinking Out Loud"> &nbsp; Thinking Out Loud
 
 <table>
   <tr>
@@ -155,21 +155,39 @@
 <div align="center">
   <a href="https://russ.dev/experience">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/experience-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/experience-light.svg">
-      <img alt="6+ years in software engineering — ThreatSabre, Coalesce, MATTR, Spidertracks" src="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/experience-light.svg" width="1200">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/experience-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/experience-light.png">
+      <img alt="6+ years in software engineering — ThreatSabre, Coalesce, MATTR, Spidertracks" src="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/experience-light.png" width="1200">
     </picture>
   </a>
 </div>
+
+<p align="center">
+  <a href="https://russ.dev/experience"><strong>Full experience &amp; architecture notes ↗</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://russ.dev/open-to-work"><strong>Open to Senior, Staff &amp; Tech Lead roles →</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://russ.dev/Russell-Bloxwich-CV.pdf"><strong>Download CV (PDF) ↗</strong></a>
+</p>
 
 <br>
 
 <div align="center">
   <a href="https://russ.dev/open-to-work">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/footer-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/footer-light.svg">
-      <img alt="Engineer by trade. Maker by default. Have a good problem? Work with me." src="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/footer-light.svg" width="1200">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/footer-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/footer-light.png">
+      <img alt="Engineer by trade. Maker by default. Have a good problem? Let's make something." src="https://raw.githubusercontent.com/RussellBloxwich/RussellBloxwich/main/assets/footer-light.png" width="1200">
     </picture>
   </a>
 </div>
+
+<p align="center">
+  <a href="https://russ.dev/open-to-work"><strong>Work with me →</strong></a>
+  &nbsp; · &nbsp;
+  <a href="mailto:contact@reb.nz"><strong>contact@reb.nz</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/russell-bloxwich-a88491a3/"><strong>LinkedIn ↗</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://russ.dev"><strong>russ.dev ↗</strong></a>
+</p>
